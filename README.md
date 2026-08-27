@@ -9,6 +9,8 @@ Offline personal media ecosystem: games, movies, music and more stored on drives
 8TB external SSD Games/
 ├── emulation/
 └── steam/
+<img width="3829" height="2159" alt="Screenshot_20260826_203939" src="https://github.com/user-attachments/assets/63b08f25-4606-4769-aaa5-bf87c44c525b" />
+
 4TB external HDD Media/
 ├── content offloader/
 ├── Deckflix/
