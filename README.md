@@ -11,7 +11,7 @@ It’s not just a matter of having an account. Those games are files — stored 
 The moment you create an account and buy a digital game, you are placing a great deal of trust that it will always be there. That is a fool’s trust.
 You can stay trapped inside their ecosystem, or you can build and rely on your own.
 
-this is a personal pet project of mine creating a well organized self maintained privately owned user controlled "always offline ecosystem. which i will expand upon with more information and give you a great road map on how to make your own. 
+this is a personal pet project of mine creating a well organized self maintained privately owned user controlled "always offline ecosystem". which I will expand upon with more information and give you a great road map on how to make your own. 
 
 ```
 8TB external SSD Games/
