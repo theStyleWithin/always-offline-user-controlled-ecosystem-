@@ -3,8 +3,6 @@ A system of files on a users computer whether its games, movies songs backed up 
 
 
 
-
-
 8TB external SSD Games/
 ├── emulation/
 └── steam/
