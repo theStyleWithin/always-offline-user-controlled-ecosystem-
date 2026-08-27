@@ -47,4 +47,15 @@ this is a personal pet project of mine creating a well organized self maintained
 └── THE ANIMATRIX/
 ```
 
+NETFLIX  HULU  DISNEY+  PLAYSTATION  NINTENDO  MICROSOFT  AMAZON  TWITCH  YOUTUBE
+                                      |
+                                      |
+                                 ┌────┴────┐
+                                 │  (•_•)  │
+                                 │   |     │
+                                 │   |  🖕 │
+                                 │  / \    │
+                                 └─────────┘
+
+
 I will update with futher instructions on how to make the most optimal use of an "always offline ecosystem" on my own time. I have existing open source projects created by other people that this is tied with for example you can sync your media drives that will include Deckflix and anime with a project called Jellyfin. Eliminating your reliance on subscriptions services like Netflix, huly, Disney+, crunchyroll or anything else out there. That said. I'll add more in a much more organized way later. 
