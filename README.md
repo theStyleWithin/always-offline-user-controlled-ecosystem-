@@ -4,6 +4,14 @@
 
 Offline personal media ecosystem: games, movies, music and more stored on drives hosted by a computer. Backed up via physical media, transferable between devices, and fully accessible without the internet as long as the host computer is working.
 
+There is no cloud. It is only someone else’s computer.
+How do you think you’re able to access and redownload all of your games on PlayStation, Xbox, or Nintendo?
+
+It’s not just a matter of having an account. Those games are files — stored on their servers.
+The moment you create an account and buy a digital game, you are placing a great deal of trust that it will always be there. That is a fool’s trust.
+You can stay trapped inside their ecosystem, or you can build and rely on your own.
+
+this is a personal pet project of mine creating a well organized self maintained privately owned user controlled "always offline ecosystem. which i will expand upon with more information and give you a great road map on how to make your own. 
 
 ```
 8TB external SSD Games/
