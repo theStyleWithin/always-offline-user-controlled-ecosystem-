@@ -1,6 +1,7 @@
 # always-offline-user-controlled-ecosystem-
 
-What is an "always offline user controlled ecosystem? 
+**What is an "always offline ecosystem"?** 
+
 Offline personal media ecosystem: games, movies, music and more stored on drives hosted by a computer. Backed up via physical media, transferable between devices, and fully accessible without the internet as long as the host computer is working.
 
 
